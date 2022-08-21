@@ -1,0 +1,23 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 19
+Active frames: 1
+Frames order: 0 1 2 3 0 1 2 1 2 3 0 1 2 3 0 1 2 1 2 3
+Active cycles: 1
+Frame rate: 2
+Duration: 3600
+Active cooldown: 7
+
+Bubble slots: 1
+
+Slot: 0
+X: 50
+Y: 16
+Text: Plip!
+AlignH: Right
+AlignV: Bottom
+StartFrame: 12
+EndFrame: 14
